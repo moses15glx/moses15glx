@@ -5,8 +5,7 @@
 ## Sobre mim  
 Desenvolvedor web em constante evolução, explorando Python e design digital.  
 Gosto de criar interfaces intuitivas, projetos criativos e aprender novas **TECNOLOGIAS** todos os dias.  
-Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀<br>
-https://portfolio-moisa-tech.netlify.app/</br>
+Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
 
 ---
 
