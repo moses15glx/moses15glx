@@ -13,18 +13,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate custom snake
+      - name: Generate custom snake (correct palette)
         uses: Platane/snk@v3
         with:
           github_user_name: moses15glx
           outputs: dist/snake.svg
-
-          # 🔥 Personalização:
-          color_snake: "#00A2FF"        # Cobrinha azul
-          color_path: "#005C99"         # Rastro azul escuro
-          color_dots: "#00FF00"         # Commits verdes
-          color_back: "#000000"         # Fundo preto
-          hide_progress_bar: true       # Remove barra de progresso
+          palette: |
+            {
+              "background": "#000000",
+              "snake": "#00A2FF",
+              "apple": "#00FF00",
+              "gradient": ["#00A2FF", "#005C99"],
+              "empty": "#000000",
+              "dot": "#00FF00",
+              "progress": "transparent"
+            }
 
       - name: Push snake to output branch
         uses: EndBug/add-and-commit@v9
