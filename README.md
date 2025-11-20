@@ -1,12 +1,11 @@
 ## 👋🏿 Olá! Eu sou Moisés Fellipe
 
-![snake animation](https://raw.githubusercontent.com/moses15glx/moses15glx/output/snake.svg)
-
 ---
 
 ## Sobre mim  
-Sou desenvolvedor apaixonado por criar soluções criativas — desde sistemas web, jogos, aplicativos e plataformas educacionais.  
-Atualmente trabalhando no projeto **Looma Education**.
+Desenvolvedor web em constante evolução, explorando Python e design digital.  
+Gosto de criar interfaces intuitivas, projetos criativos e aprender novas **TECNOLOGIAS** todos os dias.  
+Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
 
 ---
 
@@ -31,6 +30,8 @@ Atualmente trabalhando no projeto **Looma Education**.
 </div>
 
 ---
+<!--Cobrinha--->
+![snake animation](https://raw.githubusercontent.com/moses15glx/moses15glx/output/snake.svg)
 
 ## 🧠 Linguagens e Ferramentas
 
