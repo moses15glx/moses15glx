@@ -5,7 +5,8 @@
 ## Sobre mim  
 Desenvolvedor web em constante evolução, explorando Python e design digital.  
 Gosto de criar interfaces intuitivas, projetos criativos e aprender novas **TECNOLOGIAS** todos os dias.  
-Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
+Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀<br>
+https://portfolio-moisa-tech.netlify.app/</br>
 
 ---
 
@@ -48,7 +49,6 @@ Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
 
 <!-- FERRAMENTAS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="55" title="FileZilla"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" title="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="55" title="Canva"/>
@@ -59,9 +59,10 @@ Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
 
 ## 🎮 Projetos e interesses  
 - 👾 Criador do jogo **Stellar Combat**  
-- 📚 Desenvolvedor da plataforma **Looma Education**  
+- 📚 Gestor e desenvolvedor da plataforma **https://loomaeducation.com.br/**  
 - 💻 Desenvolvimento web completo  
-- ✨ UI/UX e design visual no Figma e Canva  
+- ✨ UI/UX e design visual no Figma e Canva
+- 📊 Análise de dados
 
 ---
 
