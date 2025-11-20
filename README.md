@@ -23,16 +23,6 @@ Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
 
 ---
 
-## Gráfico de Atividade  
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moses15glx&theme=tokyo-night" />
-
-</div>
-
----
-
 ## 🧠 Linguagens e Ferramentas
 
 <div align="center">
