@@ -8,6 +8,8 @@ Gosto de criar interfaces intuitivas, projetos criativos e aprender novas **TECN
 Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
 
 ---
+<!-- Cobrinha -->
+![snake animation](https://raw.githubusercontent.com/moses15glx/moses15glx/output/snake.svg)
 
 ## Estatísticas do GitHub  
 
@@ -30,8 +32,6 @@ Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
 </div>
 
 ---
-<!-- Cobrinha -->
-![snake animation](https://raw.githubusercontent.com/moses15glx/moses15glx/output/snake.svg)
 
 ## 🧠 Linguagens e Ferramentas
 
