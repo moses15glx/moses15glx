@@ -30,7 +30,7 @@ Sempre experimentando, versionando e construindo coisas legais por aqui. 🚀
 </div>
 
 ---
-<!--Cobrinha--->
+<!-- Cobrinha -->
 ![snake animation](https://raw.githubusercontent.com/moses15glx/moses15glx/output/snake.svg)
 
 ## 🧠 Linguagens e Ferramentas
