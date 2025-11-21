@@ -5,15 +5,10 @@
 
 <br>
 
-# 👋🏿 Olá! Eu sou **Moisés Fellipe**  
-### Um desenvolvedor web em constante evolução 🌱
-
----
-
-## 🧑‍💻 Sobre mim  
+## Sobre mim  
 Sou um desenvolvedor apaixonado por criar interfaces intuitivas, experiências visuais e projetos práticos.  
 Sempre buscando aprender novas **tecnologias**, melhorar minhas habilidades e construir coisas legais por aqui.  
-Atualmente explorando **Python**, **Web Design**, e aprimorando meu trabalho com **UI/UX**. 🚀
+Atualmente explorando **Python**, **Web Design**, **Apps**, tudo que a tecnologia me proporcionar e aprimorando meu trabalho com **UI/UX**. 🚀
 
 ---
 
@@ -22,25 +17,28 @@ Atualmente explorando **Python**, **Web Design**, e aprimorando meu trabalho com
 <div align="center">
 
 <!-- LINGUAGENS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <!-- FERRAMENTAS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="55" title="FileZilla"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" title="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="55" title="Canva"/>
+<br><br>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 </div>
 
+
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## Estatísticas GitHub
 
 <div align="center">
 
@@ -52,7 +50,6 @@ Atualmente explorando **Python**, **Web Design**, e aprimorando meu trabalho com
 
 ---
 
-## 🐍 Cobrinha das contribuições
 ![snake animation](https://raw.githubusercontent.com/moses15glx/moses15glx/output/snake.svg)
 
 ---
@@ -63,7 +60,7 @@ Atualmente explorando **Python**, **Web Design**, e aprimorando meu trabalho com
 - 📚 Desenvolvedor da plataforma **Looma Education** → https://loomaeducation.com.br  
 - 💻 Desenvolvimento Web completo  
 - ✨ UI/UX com Figma e Canva  
-- 📈 Análise e visualização de dados  
+- 📈 Análise,visualização e criação de dados  
 - 📚 Estudando constantemente novas tecnologias
 
 ---
