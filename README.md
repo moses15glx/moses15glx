@@ -43,7 +43,7 @@ Atualmente explorando **Python**, **Web Design**, **Apps** e tudo que a **tecnol
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moses15glx&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moses15glx&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses15glx&layout=compact&theme=tokyonight&locale=pt-br"/>
 
