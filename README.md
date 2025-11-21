@@ -8,7 +8,7 @@
 ## Sobre mim  
 Sou um desenvolvedor apaixonado por criar interfaces intuitivas, experiências visuais e projetos práticos.  
 Sempre buscando aprender novas **tecnologias**, melhorar minhas habilidades e construir coisas legais por aqui.  
-Atualmente explorando **Python**, **Web Design**, **Apps**, tudo que a tecnologia me proporcionar e aprimorando meu trabalho com **UI/UX**. 🚀
+Atualmente explorando **Python**, **Web Design**, **Apps** e tudo que a **tecnologia** me proporcionar. 
 
 ---
 
