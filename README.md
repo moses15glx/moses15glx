@@ -49,7 +49,7 @@ Atualmente explorando **Python**, **Web Design**, **Apps** e tudo que a **tecnol
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/moses15glx/moses15glx/output/snake.svg)
+![pacman animation](https://raw.githubusercontent.com/moses15glx/moses15glx/output/pacman.svg)
 
 ---
 
