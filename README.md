@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/moses15glx/moses15glx/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/moses15glx/moses15glx/main/Moisa.tech.gif" width="100%" />
 </div>
 
 <br>
