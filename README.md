@@ -58,10 +58,10 @@ Atualmente explorando **Python**, **Web Design**, **Apps** e tudo que a **tecnol
 ## 🎮 Projetos e Interesses  
 
 - 👾 Criador do jogo **Stellar Combat**  
-- 📚 Desenvolvedor da plataforma **Looma Education** → https://loomaeducation.com.br  
+- 📚 Gestor e Desenvolvedor da plataforma **Looma Education** → https://loomaeducation.com.br  
 - 💻 Desenvolvimento Web completo  
 - ✨ UI/UX com Figma e Canva  
-- 📈 Análise,visualização e criação de dados  
+- 📈 Análise, visualização e criação de dados  
 - 📚 Estudando constantemente novas tecnologias
 
 ---
